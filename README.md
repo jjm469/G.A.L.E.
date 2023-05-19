@@ -1,6 +1,7 @@
 # G.A.L.E.
 G.A.L.E. (Ground-based Actuating Legged Explorer) is a 4-legged robotic quadrupedal robot equipped with a remote control claw. 
-Website: https://pages.github.coecis.cornell.edu/ece3140-sp2023/jjm469-wih3/
+
+Webpage: https://pages.github.coecis.cornell.edu/ece3140-sp2023/jjm469-wih3/
 
 Youtube Video: https://youtu.be/06YNvoyBqVI 
 
